@@ -1,11 +1,11 @@
 ﻿# Портфолио QA engineer
 
 ## Чек-лист
-1. Чек-лист функциональности "Сделать заказ" и верстки одного из экранов приложения Яндекс.Самокат
+1. Чек-лист функциональности "Сделать заказ" и верстки одного из экранов ("Для кого самокат") приложения Яндекс.Самокат
 * [**ссылка на чек-лист**](https://docs.google.com/spreadsheets/d/1UNRxuvvoiX5Tzfe4_jG4WjT5DQjy6xqVxwbSZcUmYso/edit?usp=sharing)
 * [требования](https://praktikum.notion.site/b6db5e8c26b4407e9ab14545cd1159e3)  
 
-2. Чек-лист API приложения Яндекс.Прилавок
+2. Чек-лист API приложения Яндекс.Прилавок: возможность проверить, есть ли доставка курьерской службой «Привезём быстро» и сколько она стоит; возможность получить список продуктов, которые добавили в корзину, возможность добавлять продукты в корзину, возможность удалять корзину
 * [**ссылка на чек-лист**](https://docs.google.com/spreadsheets/d/1lkj5-bXrWzeVp9utGf0IV3ppeWjKd9aJTmuh7fsH_3s/edit?usp=sharing)
 * [требования](https://praktikum.notion.site/8744f17105b848ffb03229821b414c99)
 
@@ -98,7 +98,7 @@
 * [**ссылка на коллекцию**](https://drive.google.com/file/d/1F-SZL_FpKG1CgdpuxL_tekZmTiCUaknY/view?usp=drive_link)
 
 ## Таблица КЭ и ГЗ
-Таблица для форм "Для кого самокат" и "Про аренду" приложения Яндекс.Самокат
+Таблица для валидации полей форм "Для кого самокат" и "Про аренду" приложения Яндекс.Самокат
 * [**ссылка на таблицу**](https://docs.google.com/spreadsheets/d/1UNRxuvvoiX5Tzfe4_jG4WjT5DQjy6xqVxwbSZcUmYso/edit#gid=768617316)
 * [требования](https://praktikum.notion.site/b6db5e8c26b4407e9ab14545cd1159e3) 
 
@@ -106,7 +106,7 @@
 Техники тест-дизайна применены для мобильного приложения Яндекс.Метро
 * [требования](https://praktikum.notion.site/1fab6820a16045e887eaeb96d57bee0a)  
 
-1. Для блока «Настройки»
+1. Для блока «Настройки»: добавлены города, добавлена возможность выбора языка между русским и английским, добавлена темная тема
 * [**ссылка на попарное тестирование**](https://docs.google.com/spreadsheets/d/1G_jR1xIHVux0eNISqOOITrdV2l7wYDrszlvq3HvzkqQ/edit#gid=0)  
 
 2. Для требования «Маршрут и выбранные станции сохраняются в истории после того, как пользователь построил маршрут»
@@ -142,7 +142,7 @@ GROUP BY c.login;
 FROM "Orders";  
 
 ## Mindmap
-1. Mindmap интерфеса веб-приложения [Kittygram](https://foodgram-frontend-5.prakticum-team.ru/)  
+1. Mindmap всего интерфеса веб-приложения [Kittygram](https://foodgram-frontend-5.prakticum-team.ru/)  
 * [**ссылка на draw.io**](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%20%D0%9A%D0%B8%D1%82%D1%82%D0%B8%D0%B3%D1%80%D0%B0%D0%BC.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D177lkCyOaG_FX-RyxD6g_5y7ZnZcqpe-o%26export%3Ddownload)  
 * [требования](https://praktikum.notion.site/Kittygram-693863b64cf7480ca9be7401b171ac6d)  
 * [макеты](https://www.figma.com/file/mzeWaE7icA8DuWrhhlD2cR/Kittygram?type=design&node-id=0-1&mode=design&t=dgPV2PVyGgjPbD5F-0)  
@@ -152,7 +152,7 @@ FROM "Orders";
 * [требования](https://praktikum.notion.site/1-0-c5203c01f07f4ba096d4534efe620a26)
 
 ## Диаграмма состояний и переходов
-Диаграмма для формы бронирования каршеринга приложения Яндекс.Маршруты
+Диаграмма для всплывающих окон формы бронирования каршеринга приложения Яндекс.Маршруты
 * [**ссылка на draw.io**](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B9%20%D0%B8%20%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D0%BE%D0%B2.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1tlBO5UVyNAdEJYhBcp0sRE2f70vPlGVq%26export%3Ddownload)
 * [требования](https://praktikum.notion.site/74dd6e68fda34387ac4d43137a601c6e)
 * [макеты](https://www.figma.com/file/42mNwme0cBfZwNZUIcN1mh/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D1%8B?type=design&node-id=2-18586&mode=design&t=FZNe8BmcamqDFxN1-0)
