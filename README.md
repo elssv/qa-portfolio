@@ -162,3 +162,9 @@ FROM "Orders";
 * [ТПР](https://docs.google.com/spreadsheets/d/1PvZ5kKvqN0NRkJCLXmKXXFVtlaZ7dizb8ahnZYIickY/edit#gid=1636549694) и [КЭ/ГЗ](https://docs.google.com/spreadsheets/d/1PvZ5kKvqN0NRkJCLXmKXXFVtlaZ7dizb8ahnZYIickY/edit#gid=1938604920)
 * [Баг-репорты](https://docs.google.com/spreadsheets/d/1PvZ5kKvqN0NRkJCLXmKXXFVtlaZ7dizb8ahnZYIickY/edit#gid=1963200987)
 * [Отчет о тестировании](https://docs.google.com/document/d/1rdHWBjC4TS3RCM_97s0kVu5R2dwf3u0UODxtREBicwE/edit?usp=sharing)
+
+---
+### [Сертификат о прохождении обучения по профессии Инженер по тестированию](https://drive.google.com/file/d/1foM4C8tywLfwz3nbZYoGEMWu9P3uDJte/view?usp=drive_link) и [Справка](https://drive.google.com/file/d/17WiVhczD_1XfRNO-JROu6vOXu6n_SPgO/view?usp=drive_link)
+
+---
+© Свиридова Элина, 2023
